@@ -2,7 +2,7 @@
 
 class Athlete():
     def __init__(self, is_person, has_gear, health_status, skill_level): # Init is a CONSTRUCTOR; Def __init__() helps initialize a class
-        self.person = is_person  # self keyword helps instantiate? here? 
+        self.is_person = is_person  # self keyword helps instantiate? here? 
         self.has_gear = has_gear
         self.health_status = health_status
         self.skill_level = skill_level
@@ -33,6 +33,6 @@ if __name__ == "__main__":
     fit_human.eats_well()
     fit_human.sleeps_plenty()
 
-    climber = Rock_Climber("No, DEFINITELY NOT!", "More than Enough!", "Mental Questionable 3/5", "Superior Skills, 18 Years")
+    climber = Rock_Climber("No", "DEFINITELY NOT!", "More than Enough!", "Mental Questionable 3/5", "Superior Skills, 18 Years")
     climber.eats_well()
     climber.sleeps_plenty()
