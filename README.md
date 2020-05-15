@@ -2,7 +2,8 @@
 # LS DSPT5 Unit-3-Sprint-1-Software-Engineering/module1-python-modules-packages-and-environments
 
 # I. INSTALLATION:
-!pip install -i https://test.pypi.org/simple/ assmnt_2
+#    A. Assignment 1:  same as below for Assignment 2?
+#    B. Assignmetn 2: !pip install -i https://test.pypi.org/simple/ Climber-pkg==1.0
 
 # II. USAGE/DESCRIPTION:
 #    A. Assignment 1's USAGE/DESCRIPTION of 2 Functions:
