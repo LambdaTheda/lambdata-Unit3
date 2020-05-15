@@ -2,11 +2,11 @@
 # LS DSPT5 Unit-3-Sprint-1-Software-Engineering/module1-python-modules-packages-and-environments
 
 # I. INSTALLATION:
-#    A. Assignment 1:  same as below for Assignment 2?
-#    B. Assignmetn 2: !pip install -i https://test.pypi.org/simple/ Climber-pkg==1.0
+#    A. Assignment 1:  same as below for Assignment 2? (same package so probably)
+#    B. Assignment 2: !pip install -i https://test.pypi.org/simple/ Climber-pkg==1.0
 
 # II. USAGE/DESCRIPTION:
-#    A. Assignment 1's USAGE/DESCRIPTION of 2 Functions:
+#    A. Assignment 1's USAGE/DESCRIPTION of 2 Functions (in assmnt_1-Original-Classes.py file):
 #       1. FROM enlarge_fcn_ass1_2.py - enlarge(num) function ACCEPTS A NUMBER "y" and returns num * 1000,      a) it prints ("Your number * 1000 = ", enlarge(y))
 
 #       2. FROM my_script.py - from enlarge_fcn_ass1_2  import enlarge()
@@ -14,7 +14,7 @@
 #             i. "TIME TO DO STUFF!, YAY!" &
 #            ii. enlarge(x) when x = 10
 # 
-#    B. Assignment 2's USAGE/DESCRIPTION:
+#    B. Assignment 2's USAGE/DESCRIPTION (in assmnt_2-Peer-Code-Review.py file):
 #       1.  FROM assignment.py - parent Athlete class and child Rockclimber class for Mods 2-3"
 #          a) eats_well(self):     
 #            i. prints "Eats vegan organic food"
