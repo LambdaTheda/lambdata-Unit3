@@ -1,6 +1,6 @@
 <!-- 
 
-All of John's files PASSED PEP8 testing:
+All of John's files PASSED PEP8 testing: FINAL SCORE 3
 
 Inside the buyholdsell directory, you will find several files, including a blank __init__.py, which helps manage packages (HELPS IMPORT files in that folder).
 
